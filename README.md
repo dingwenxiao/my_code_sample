@@ -1,3 +1,5 @@
+This is a java console application which includes all my sample codes.
+
 ================================================
 APPLICATION INSTRUCTIONS
 ================================================
@@ -10,12 +12,6 @@ dingwen.cache - Operations on shapes stored in memory.
 dingwen.shapes - shape factory, interface etc.
 dingwen.shapes.imp - implementation of shape interface such as donut, circle etc.
 dingwen.utils - all common constants and helper class.
-
-
-To run the project from the command line, go to the dist folder and
-type the following:
-
-java -jar Question9.jar [input file name]
 
 if not specify the input file name, the program will look for “input_sample.txt”. input_sample.txt includes input samples.
 
