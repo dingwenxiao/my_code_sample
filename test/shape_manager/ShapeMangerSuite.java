@@ -18,7 +18,7 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({question9.shapes.imp.ShapesSuite.class, question9.ShapeFactoryTest.class, question9.utils.UtilsSuite.class, question9.CommandTest.class})
-public class Question9Suite {
+public class ShapeMangerSuite {
 
     @BeforeClass
     public static void setUpClass() throws Exception {
