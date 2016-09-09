@@ -6,7 +6,7 @@ Java console application - My code sample.
 3. Calculate the area of a shape or overlapped area of multiple shapes.
 4. test if two shapes are overlapped.
 5. help instructions.
-6. Error input handling - for anything unexpected input, the corresponding error message will show to users.
+6. Error input handling - for anything unexpected input, the corresponding error message will given to users.
 
 
 ================================================
