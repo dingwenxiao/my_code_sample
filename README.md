@@ -1,4 +1,11 @@
-This is a java console application which includes all my sample codes.
+This is a java console application which includes all my sample codes. 
+1. Users can create any number of shapes like circle,donut,ellipse, rectangle etc.
+2. Print out the shapes in a certain format.
+3. Calculate the area of a shape or overlapped area of multiple shapes.
+4. test if two shapes are overlapped.
+5. help instructions.
+6. Error input handling - for anything unexpected input, the corresponding error message will show to users.
+
 
 ================================================
 APPLICATION INSTRUCTIONS
