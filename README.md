@@ -13,9 +13,8 @@ Java console application - My code sample.
 APPLICATION INSTRUCTIONS
 ================================================
 
-This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. <br />
+This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. <br /><br />
 The main class is defined in Command.java <br />
-
 Packages:<br />
 dingwen - Command includes all interface interaction with users.<br />
 dingwen.cache - Operations on shapes stored in memory.<br />
