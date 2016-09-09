@@ -1,5 +1,5 @@
 =========================
-This is a java console application which includes all my sample codes. 
+This is a java console application - my sample codes. 
 ===================
 1. Users can create any number of shapes like circle,donut,ellipse, rectangle etc.
 2. Print out the shapes in a certain format.
