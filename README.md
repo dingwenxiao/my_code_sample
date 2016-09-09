@@ -1,17 +1,26 @@
-This is a java console application which includes all my sample codes.
+=========================
+Java console application - My code sample. 
+===================
+1. Users can create any number of shapes like circle,donut,ellipse, rectangle etc.
+2. Print out the shapes in a certain format.
+3. Calculate the area of a shape or overlapped area of multiple shapes.
+4. test if two shapes are overlapped.
+5. help instructions.
+6. Error input handling - for anything unexpected input, the corresponding error message will given to users.
+
 
 ================================================
 APPLICATION INSTRUCTIONS
 ================================================
 
-This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. The main class is defined in Command.java 
-
-Packages:
-dingwen - Command includes all interface interaction with users.
-dingwen.cache - Operations on shapes stored in memory.
-dingwen.shapes - shape factory, interface etc.
-dingwen.shapes.imp - implementation of shape interface such as donut, circle etc.
-dingwen.utils - all common constants and helper class.
+This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. <br /><br />
+The main class is defined in Command.java <br />
+Packages:<br />
+dingwen - Command includes all interface interaction with users.<br />
+dingwen.cache - Operations on shapes stored in memory.<br />
+dingwen.shapes - shape factory, interface etc.<br />
+dingwen.shapes.imp - implementation of shape interface such as donut, circle etc.<br />
+dingwen.utils - all common constants and helper class.<br />
 
 if not specify the input file name, the program will look for “input_sample.txt”. input_sample.txt includes input samples.
 
