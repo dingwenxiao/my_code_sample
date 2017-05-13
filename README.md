@@ -1,5 +1,5 @@
 ====================================================<br />
-Java console application - My code sample.<br /> 
+#Java console application - My code sample.<br /> 
 =====================================================================<br />
 1. Users can create any number of shapes like circle,donut,ellipse, rectangle etc.
 2. Print out the shapes in a certain format.
@@ -10,7 +10,7 @@ Java console application - My code sample.<br />
 
 
 ===========================================================================<br />
-APPLICATION INSTRUCTIONS<br />
+##APPLICATION INSTRUCTIONS<br />
 ===========================================================================<br />
 
 This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. <br /><br />
@@ -27,7 +27,7 @@ if not specify the input file name, the program will look for “input_sample.tx
 Shape types : circle, square, rectangle, triangle, donut and ellipse.
 
 ==================================================================================<br />
-Commands instruction : help <br />
+###Commands instruction : help <br />
 ===================================================================================<br />
 Note: parameters are separated by one whitespce; multiple whitepaces are seen as invalid input.
 
@@ -50,7 +50,7 @@ i.e. contains 1.7 -5.05
 
 
 ==================================================================<br />
-Add a shape for help : help shape</b><br />
+####Add a shape for help : help shape</b><br />
 ==================================================================<br />
 -Add a circle: add circle [x coordinate of center] [y coordinate of center] [radius]
 i.e. add circle 1.7 -5.05 6.9
