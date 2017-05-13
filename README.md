@@ -9,9 +9,9 @@
 6. Error input handling - for anything unexpected input, the corresponding error message will given to users.
 
 
-===========================================================================<br />
+=========================================================================================================================<br />
 ## APPLICATION INSTRUCTIONS<br />
-===========================================================================<br />
+=============================================================================================================================<br />
 
 This is a netbeans project. All source code is in src folder, all junit tests are in test folder. The unit test coverage is greater than 90%. <br /><br />
 The main class is defined in Command.java <br />
@@ -26,9 +26,9 @@ if not specify the input file name, the program will look for “input_sample.tx
 
 Shape types : circle, square, rectangle, triangle, donut and ellipse.
 
-===================================================================================<br />
+================================================================================================================<br />
 ### Commands instruction : help <br />
-===================================================================================<br />
+================================================================================================================<br />
 Note: parameters are separated by one whitespce; multiple whitepaces are seen as invalid input.
 
 -Add a shape: add [shape type] [x coordinate of center] [y coordinate of center] [...]
@@ -49,9 +49,9 @@ i.e. contains 1.7 -5.05
 -Exit: exit
 
 
-==================================================================<br />
+============================================================================================================================<br />
 #### Add a shape for help : help shape</b><br />
-==================================================================<br />
+============================================================================================================================<br />
 -Add a circle: add circle [x coordinate of center] [y coordinate of center] [radius]
 i.e. add circle 1.7 -5.05 6.9
 
