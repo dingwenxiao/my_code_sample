@@ -1,6 +1,6 @@
-====================================================<br />
+==================================================================================================<br />
 # Java console application - Dingwen's code sample.<br /> 
-=====================================================================<br />
+==================================================================================================<br />
 1. Users can create any number of shapes like circle,donut,ellipse, rectangle etc.
 2. Print out the shapes in a certain format.
 3. Calculate the area of a shape or overlapped area of multiple shapes.
@@ -26,7 +26,7 @@ if not specify the input file name, the program will look for “input_sample.tx
 
 Shape types : circle, square, rectangle, triangle, donut and ellipse.
 
-==================================================================================<br />
+===================================================================================<br />
 ### Commands instruction : help <br />
 ===================================================================================<br />
 Note: parameters are separated by one whitespce; multiple whitepaces are seen as invalid input.
